@@ -97,3 +97,12 @@ src/
   App.jsx                    # Root layout
   main.jsx                   # Entry point
 ```
+## 🚀 Deployment
+
+The project is live and hosted on **Vercel**. 
+
+🔗 **[Click here to view the Live Demo](https://finflow-dashboard-one.vercel.app/)**
+
+### CI/CD Workflow
+- Every push to the `main` branch triggers an automatic deployment on Vercel.
+- Optimized for production with Vite's lightning-fast bundling.
